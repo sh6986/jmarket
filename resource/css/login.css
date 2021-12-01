@@ -1,0 +1,63 @@
+@charset "UTF-8";
+
+article{
+	margin-bottom: 200px;
+}
+
+.login-main li{
+	list-style: none;
+	width: 500px;
+	height: 50px;
+	margin: 20px auto;
+}
+
+.login-main input, .login-main button{
+	width: 100%;
+	line-height: 100%;
+	height: 100%;
+	border-radius: 7px;
+}
+
+.login-menu li{
+	list-style: none;
+	display: inline-block;
+}
+
+.login-menu ul{
+	text-align: center;
+}
+
+.login-main input{
+	font-size: 25px;
+}
+
+.login-main button, .login-menu li{
+	font-size: 17px;
+}
+
+article hr{
+	width: 500px;
+	margin: auto auto;
+	border: 1px solid gray;
+}
+
+.login-menu a{
+	text-decoration:none; 
+	margin: 10px auto;
+}
+
+.login-menu a:hover{
+	text-decoration:underline; 
+}
+
+.login-main button{
+	background: #FF9090;
+	border: 0;
+	color: white;
+	font-weight: bold;
+}
+
+.login-main button:hover{
+	background: #FF6C6C;
+}
+

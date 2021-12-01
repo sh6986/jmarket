@@ -1,0 +1,85 @@
+@charset "UTF-8";
+.pageline {
+	margin-top: 20px;
+	border-top: 3px solid #FF6C6C;
+	border-bottom: 3px solid #FF6C6C;
+} 
+
+.pageline .pagetitle{
+	list-style: none;
+	height: 35px;
+	border-bottom: 1px solid #FF6C6C;
+}
+.pagetitle{
+	margin: 0px;
+}
+
+.pagetitle li{
+	list-style: none;
+	float: left;
+	line-height: 35px;
+	font-weight: 800;
+	text-align: center;
+}
+
+.pagerow1 {
+	height: 35px;
+	margin: 0px;
+	padding: 0px;
+}
+
+.pagerow1 li{
+	list-style: none;
+	float: left;
+	line-height: 35px;
+	font-weight: 800;
+	text-align: center;
+}
+
+.pagerow2 {
+	height: 35px;
+	margin: 0px;
+	padding: 0px;
+}
+.pagerow2 li{
+	list-style: none;
+	float: left;
+	line-height: 35px;
+	font-weight: 800;
+	text-align: center;
+}
+.pagerow3{
+	float: left;
+	list-style: none;
+	line-height: 20px;
+	text-align: left;
+}
+.pcategory{
+	width: 100px;
+}
+.pname{
+	width: 500px;
+}
+
+.pageinfo1{
+	width: 100px;
+	background: #FFB9B9;
+}
+
+.pageinfo2{
+	width: 295px;
+	background: #FFDDDD;
+}
+
+.mainline{
+	border-bottom : 3px solid #FF6C6C;
+	width : 760px;
+	min-height: 200px;
+	padding: 20px;
+}
+.btnline{
+	text-align: right;
+}
+.btnline button{
+	margin: 10px 5px; 0px; 0px;
+}

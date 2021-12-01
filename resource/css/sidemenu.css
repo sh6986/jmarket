@@ -1,0 +1,58 @@
+@charset "UTF-8";
+
+
+section{
+	position : relative;
+	overflow: hidden;
+	padding: 6em 0em 5em 0em;
+}
+article{
+	float: left;
+	width: 750px;
+}
+#content{
+	float: left;
+	width: 790px;
+}
+/*메인창*/
+
+aside{
+	float: right;
+	width: 345px;
+}
+.sidebox{
+	float: left;
+	width: 300px;
+	margin-left: 24px;
+	padding-right: 30px;
+}
+
+.sidebox h2{
+	padding-left: 40px;
+}
+
+.sidebox > ul li{
+	margin-top : 8px;
+	text-decoration : none;
+	border-radius : 10px;
+	display: block;
+	height: 30px;
+	background: #FFB4B4;
+	font-size: 15px;
+	padding-left: 40px;
+	font-weight: 500;
+	line-height: 30px;
+}
+
+.sidebox > ul li:hover{
+	background: #FF9090;
+	font-weight: 800;
+}
+
+.sidebox ul li a{
+	text-decoration : none;
+}
+
+#sidetitle{
+	font-weight: bold;
+}

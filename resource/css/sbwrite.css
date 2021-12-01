@@ -1,0 +1,209 @@
+@charset "UTF-8";
+
+
+body{
+	font-family: 
+	margin: 0px;
+	padding: 0px;
+	font-family: "맑은 고딕", sans-serif;
+	font-size: 12px;
+	font-weight: 400;
+}
+
+
+.all{
+	padding: 10px 20px;
+	margin : 0px 0px 10px 0px;
+	width: 850px;
+	min-height: 1100px;
+	border: 1px solid gray; 
+	align-items: center;
+}
+
+.name{
+	padding: 0px 10px 20px 10px;
+	font-size: 15px; 
+	font-weight: bold;
+	text-align: center;
+	border-bottom: 1px dotted gray;
+}
+
+
+.name1{
+		padding: 0px 10px 20px 10px;
+	font-size: 15px; 
+	font-weight: bold;
+	text-align: left;
+	border-bottom: 1px dotted gray;
+	
+}
+
+.nbsp{
+	text-decoration: underline;
+}
+
+
+.nikname{
+	font-size: 14px;
+	font-weight: bold;
+	text-align: left;
+}
+
+.imgbox1{
+	width: 500px;
+	height: 400px;
+	margin: 50px auto;
+}
+
+
+
+.pimg{
+	display : inline-block;
+	float : left;
+	width: 280px;
+	height: 280px;
+	margin: 40px 50px 20px 20px;
+}
+
+.img-upload{
+	display : inline-block;
+	float : left;
+	width: 280px;
+	height: 280px;
+	margin: 30px 50px 20px 20px;
+	border: 1px dotted gray;
+}
+
+
+
+.button{
+	margin: 100px 100px
+}
+
+
+.view{
+	margin : 25px 10px;
+	padding : 10px;
+	width: 820px;
+	height: 300px;
+	border-bottom: 1px dotted gray;
+}
+
+.view li{
+	list-style : none;
+	margin: 2px 30px; 
+}
+
+.product{
+	font-size: 16px;
+}
+
+.price{
+	font-size: 17px;
+	font-weight: bold;
+}
+
+.list{
+	color: gray;
+	font-size : 14px;
+	line-height: 170%;
+}
+
+
+.safe{
+	font-size: 11px; 
+	color: #1DDB16;
+	text-decoration: underline;
+}
+
+
+.send{
+	width: 200px;
+	height: 40px;
+	margin : 0px;
+	background: #e0dbdb;
+	display: inline-block;
+	text-align: center;
+	align-items: center;
+	line-height: 40px;
+	
+}
+
+
+.send li{
+	margin: 0px;
+}
+
+
+
+.jmpay{
+	color: #f4616d;
+	font-weight: bold;
+	
+}
+
+
+.ju{
+	color: #FF6C6C;
+	font-size: 14px;
+}
+
+.warning{
+	font-size: 12px;
+	color: silver;
+}
+
+.before{
+	margin : 0px ;
+	text-align : left;
+	height: 100px;
+	background: #EAEAEA;
+	border: 1px solid #BDBDBD; 
+	list-style: none;
+	padding: 15px 0px 0px 0px;
+		
+}
+
+
+.big-img{
+	width: 320px;
+	height: 320px;
+	padding: 20px 40px;
+	margin: 5px 10px ;
+}
+
+.bigimg-box{
+	text-align: center;
+}
+
+
+
+.bigimg-upload{
+	display : inline-block;
+	float : left;
+	width: 320px;
+	height: 320px;
+	margin: 30px 50px 30px 50px;
+	border: 1px dotted gray;
+}
+
+
+
+
+.write{
+	margin : 10px 10px;
+	font-size: 16px;
+	font-family: 'Sunflower', sans-serif;
+	text-align: left;
+}
+
+.write2{
+	font-size : 16px;
+	clear : both;
+	margin : 10px 10px;
+	font-size: 15px;
+	font-family: 'Sunflower', sans-serif;
+	text-align: left;
+	color: gray;
+}
+

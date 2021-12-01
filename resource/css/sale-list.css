@@ -1,0 +1,70 @@
+@charset "UTF-8";
+
+.content{
+	width: 500px;
+	padding: 3px 5px 0 0;
+}
+
+.list{
+width: 150px;
+height: 300px;
+}
+
+.photo{
+width: 150px;
+height: 150px;
+margin: 10px 5px 0 10px;
+}
+
+.and{
+width: 199px;
+padding: 1px 5px 0 300px;
+margin: 10px 5px 0 10px;
+}
+
+body{
+font-size: 12px; font-family: 맑은 고딕, 굴림;
+}
+
+#box{
+width: 400px;
+margin: 30px auto;
+
+}
+
+.row{
+clear:both;
+padding: 0px; list-style: none;
+height: 100px;
+text-align: center;
+border-bottom: 1px solid #999;
+border-top: 1px solid #999; color:black;
+line-height: 95px;
+}
+
+
+.row li {
+float:left;
+width: 80px;
+line-height: 30px;
+text-align: center;
+}
+
+#box .row li a{
+	text-decoration: none;
+}
+
+.bb{
+width: 200px;
+margin: 1px 100px 0 110px; 
+}
+
+.goods{
+	width:380px; text-align: left;
+}
+
+.name{
+	width: 80px;
+	
+
+}
